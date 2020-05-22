@@ -1,0 +1,17 @@
+{
+"companyName": "SanfiniJackT",
+"productName": "SafiniDemo",
+"productVersion": "1.0",
+"dataUrl": "SafNewNotesWGL.data.unityweb",
+"asmCodeUrl": "SafNewNotesWGL.asm.code.unityweb",
+"asmMemoryUrl": "SafNewNotesWGL.asm.memory.unityweb",
+"asmFrameworkUrl": "SafNewNotesWGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
